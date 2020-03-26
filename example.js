@@ -1,1 +1,1 @@
-rytuegydfkj
+print "a"
